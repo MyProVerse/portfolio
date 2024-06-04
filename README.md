@@ -70,11 +70,11 @@ We welcome contributions from the community. To contribute, please follow the st
 4. **Push to the branch** (`git push origin feature/your-feature`).
 5. **Open a pull request**.
 
-Please ensure that your code follows our coding standards and includes necessary documentation.
+Please ensure that your code follows coding standards and includes necessary documentation.
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [alizaman6780@gmail.com](mailto:alizaman6780@gmail.com).
+For any inquiries or feedback, please contact me at [alizaman6780@gmail.com](mailto:alizaman6780@gmail.com).
 
-Thank you for visiting the Ninja E-Sports homepage repository. We hope you enjoy the engaging and interactive design!
+Thank you for visiting my portfolio repository. I hope you enjoy the engaging and interactive design!
 
