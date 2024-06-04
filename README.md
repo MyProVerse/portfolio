@@ -43,22 +43,24 @@ To use this portfolio template, follow these steps:
   cd your-portfolio
 3. Start a local server and open "index.php" in your preferred browser
 
+## File Structure
 portfolio/
-- [index.php](index.php)
-- [script.js](script.js)
-- [style.css](style.css)
 - [contact.css](contact.css)
 - [contact.php](contact.php)
 - [database.php](database.php)
 - [home.css](home.css)
+- [index.php](index.php)
 - [main.css](main.css)
+- [portfolio_MySQL.sql](portfolio_MySQL.sql)
+- [project.jpg](project.jpg)
 - [projects.css](projects.css)
 - [projects.php](projects.php)
+- [script.js](script.js)
 - [skills.css](skills.css)
 - [skills.php](skills.php)
 - [submit_contact.php](submit_contact.php)
-- [project.jpg](project.jpg)
 - [web_dev.jpg](web_dev.jpg)
+
 
 # Contributing
 
